@@ -1,0 +1,10 @@
+{
+	"saber_swing": {
+		"category": "player",
+		"sounds": ["steve's_light_saber:swing1", "steve's_light_saber:swing2"]
+	},
+    "laser_shoot": {
+		"category": "player",
+		"sounds": ["steve's_light_saber:laser1", "steve's_light_saber:laser2", "steve's_light_saber:laser3"]
+	}
+}
